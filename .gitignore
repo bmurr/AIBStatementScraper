@@ -1,0 +1,8 @@
+.DS_Store
+
+#Bank statements can go in here
+data/
+
+#Output in here
+output/
+
